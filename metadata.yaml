@@ -1,6 +1,9 @@
 _repo: An-Attic-Philosopher-in-Paris---Complete_3999
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Un philosophe sous les toits. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Souvestre, Émile
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '1351'
     url: http://www.gutenberg.org/2009/agents/1351
 description: Translation of Un philosophe sous les toits.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3999#An-Attic-Philosopher-in-Paris---Complete
 gutenberg_issued: '2004-10-30'
 gutenberg_type: Text
 identifiers:
